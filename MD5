@@ -1,0 +1,13 @@
+c7d9de6d87df7b822015fe2f4e7aa06a *DESCRIPTION
+b6f1540f48a4c114a847c29f2687ee17 *NAMESPACE
+c8cc5d800bca7ff2dfa1289874a44645 *R/boot.ci.R
+afeb8196ac750d2c478fd8d49f4dea07 *R/print.R
+03d4a978324bfc582fa22d5c74a38731 *R/sace.R
+104309c9e5872a3a96c14ff2e214612d *R/simulated_data.R
+e5e022c6cc02a0a93e21805d41612e1f *R/summary.R
+e16cb956f60a6079d98c2f4f623def19 *data/simulated_data.rda
+f79d5e331ceed74441bd717e7e38d51d *man/boot.ci.Rd
+724e6fc5881a7aca4ea551dbe0234734 *man/print.sace.Rd
+8581771b6bee619a4beee36a4843f009 *man/sace.Rd
+2003b0241bf4b1515ea535d073cdbd29 *man/simulated_data.Rd
+903c26abfd4e0b10c7d28b90676ad720 *man/summary.sace.Rd
